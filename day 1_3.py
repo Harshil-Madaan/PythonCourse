@@ -1,0 +1,10 @@
+a=5
+b=4
+c="3"
+d="1"
+#print(a+b)
+#print(b+c)
+#print(c+d)
+print(a*b)
+print(b*c)
+print(c*d)
