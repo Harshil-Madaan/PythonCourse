@@ -1,0 +1,8 @@
+a=input("enter value of a")
+b=input("enter value of b")
+sum=int(a)+int(b)
+print(sum)
+product=int(a)* int(b)
+print(product)
+difference=int(a)-int(b)
+print(difference)
