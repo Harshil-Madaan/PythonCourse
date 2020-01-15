@@ -1,0 +1,8 @@
+a=input("enter your name")
+print(ord(a))
+b=input("enter your name")
+print(ord(b))
+c=input("enter your name")
+print(ord(c))
+d=input("enter your name")
+print(ord(d))
